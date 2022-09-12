@@ -18,18 +18,23 @@ ___
 
 👉 What is the Fourth Law of Robotics? (Feel free to make up something silly.) Write it on the next line.
 
+A robot must be obedient to the law of its country.
 
 👉 Create a heading that says "Fourth Law of Robotics."
 
+### Fourth Law of Robotics
 
 👉 Paste your entry below and bold the first and last words of your entry.
 
+**A** robot must be obedient to the law of its **country**.
 
 👉 Paste your entry below and italicize the second word of your entry.
 
+A *robot* must be obedient to the law of its country.
 
 👉 Download the image in the test folder, robot.jpg. Then drag and drop the image from your computer into this document anywhere you like.
 
+![robot](https://user-images.githubusercontent.com/111812965/189772031-704a2b23-db0f-4b1e-9f45-31bb41c3914e.jpg)
 
 👉 When you've completed all these steps, enter DONE into the bigger text box and commit your changes below.
 
