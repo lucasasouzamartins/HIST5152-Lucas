@@ -1,6 +1,8 @@
 # Team Charter
 ### HIST 5152 Group Project Assignment
 
+[Team Charter - Justin Munjack, Lauren Griffin, Lucas Martins.docx](https://github.com/lucasasouzamartins/HIST5152-Lucas/files/9601187/Team.Charter.-.Justin.Munjack.Lauren.Griffin.Lucas.Martins.docx)
+
 ## Directions for group assignments
 1. Choose one person from your group as the "submitter," who will turn in the group's assignment(s) (You will work collaboratively, but I do not need an individual submission for each member of the group.)
 2. Work collaboratively to follow the directions and answer the questions below for each item by its due date. **Note: If you are not familiar with the "push," "pull" and "merge" functions of GitHub (not part of this course), I recommend using another collaborative text editor that you are familiar with to simplify the process of multiple people editing the document at the same time.**
