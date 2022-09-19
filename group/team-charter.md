@@ -63,6 +63,6 @@ When you work on a document collaboratively, how will you ensure that you don’
 
 Do all decisions need to be unanimous, or is “majority-rules” OK?
 
-What other rules can you agree on to help meet our goals and expectations?
+What other rules can you agree on to help meet our goals and expectations??
 
 
