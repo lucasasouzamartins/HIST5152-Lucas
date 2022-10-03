@@ -31,6 +31,9 @@ _Each group will identify a "problem" - a research question that they will attem
 
 ### Part II: The method(s): **To be completed by 5pm October 3, 2022**
 
+[The Method -- Lucas Martins, Lauren Griffin & Justin Munjack.docx](https://github.com/lucasasouzamartins/HIST5152-Lucas/files/9700155/The.Method.--.Lucas.Martins.Lauren.Griffin.Justin.Munjack.docx)
+
+
 _Each group will consider which tools and methodologies may help them convey a supported argument using their problem and evidence to the intended audience. They will also inventory their assets and needs at this point._
 
 1. **What tools (specific) or methodologies/approaches (broad) will you use to develop or communicate your argument?**
