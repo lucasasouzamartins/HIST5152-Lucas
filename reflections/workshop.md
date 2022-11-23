@@ -32,4 +32,4 @@ Insert any textual elements of your recap here:
 [Reflection Assignment - Workshop - Lucas de Souza Martins.pdf](https://github.com/lucasasouzamartins/HIST5152-Lucas/files/10079599/Reflection.Assignment.-.Workshop.-.Lucas.de.Souza.Martins.pdf)
 
 Insert any URLs here: 
-https://charlesstudy.temple.edu/calendar/workshops/orgphotos 
+https://charlesstudy.temple.edu/calendar/workshops/orgphotos   
