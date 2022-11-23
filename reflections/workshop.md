@@ -29,5 +29,7 @@ The recap can take the form of a written essay, a video, a screen recorded demo,
 
 ## Submit 🎯
 Insert any textual elements of your recap here:
+[Reflection Assignment - Workshop - Lucas de Souza Martins.pdf](https://github.com/lucasasouzamartins/HIST5152-Lucas/files/10079599/Reflection.Assignment.-.Workshop.-.Lucas.de.Souza.Martins.pdf)
 
 Insert any URLs here: 
+https://charlesstudy.temple.edu/calendar/workshops/orgphotos
