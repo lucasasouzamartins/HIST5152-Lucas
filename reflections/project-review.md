@@ -21,5 +21,7 @@ Review the project following the guidelines outlined in the Journal of American 
 
 ## Submit 🎯
 Insert any textual elements of your review here:
+https://twitter.com/OLucasSMartins/status/1596284617753038854
 
 Insert any URLs here:
+https://library.brown.edu/collections/skidmore/portraits/
